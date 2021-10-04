@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = :q
+	name = Jakob Steininger steiningerjakob@gmail.com
