@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = :q
-	name = Jakob Steininger steiningerjakob@gmail.com
+	email = steiningerjakob@gmail.com
+	name = Jakob Steininger
